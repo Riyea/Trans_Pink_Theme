@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/29673184/README.md)
 # Trans Pink Theme for JetBrains IDEs
 
 A soft trans-flag pink theme for JetBrains IDEs.
